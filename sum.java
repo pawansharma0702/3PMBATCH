@@ -14,6 +14,4 @@ public static void main (String [] args)
 	// New line added
 		System.out.println("The sum is: "+ d);
 }
-
-
 }
